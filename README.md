@@ -8,5 +8,5 @@
 Docker image for mamba - https://github.com/QuantStack/mamba
 
 ```
-docker pull sudosk/mamba:latest
+docker pull sudosk/mamba:0.2.6
 ```
